@@ -3,6 +3,8 @@ This project implements Guided image filter, Weighted guided image filter, and S
 
 Authors: Jingying Wang (wangchy@umich.edu), Junyuan Yang (junyyang@umich.edu), Zhiheng Yin (yzhiheng@umich.edu), Yilun Zhu (allanzhu@umich.edu).
 
+The report could be found here [EECS 556 Report](https://drive.google.com/file/d/18QupTmWbLdV44pydvhRSEo85tf_8KyZc/view?usp=sharing)
+
 ## Papers:
 K. He, J. Sun, and X. Tang. “Guided Image Filtering”. TPAMI 2013. [MATLAB version](http://kaiminghe.com/eccv10)
 
